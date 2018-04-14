@@ -1,0 +1,45 @@
+.logo{
+	width: 150px;
+}
+.item img{
+	display: block;
+	margin: auto;
+}
+.image2{
+	width:634px
+}
+.image3{
+	width:758px
+}
+.somos p{
+	margin-top: 53px
+}
+.somos img{
+	width: 400px;
+}
+.clear{
+	clear:both;
+}
+.font p{
+	font-size: 15px;
+}
+.center{
+	text-align: center;
+}
+.color{
+	background-color: #222222;
+}
+.jumbotron{
+	margin:0px;	
+}
+.map p{
+ margin: 3px 0px 0px 20px;
+ color: white;
+}
+.embed{
+	position: relative;
+    display: block;
+    width: 100%;
+    padding: 0;
+    overflow: hidden;
+}
